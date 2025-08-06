@@ -39,11 +39,6 @@ This repo will be my place to share my projects to the world. I hope that whoeve
 
 ![Darkuz69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkuz69&show_icons=true&theme=radical)
 
-## 🧭 Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Darkuz69&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor Counter" />
-</p>
-
 ## 🔥 Projects I'm Actually Proud Of
 
 - **SariStoreMS** - Full-stack POS system for sari-sari stores (STEP'N stack) - My biggest project yet!
