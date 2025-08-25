@@ -93,5 +93,3 @@ Hit me up if you:
 *Thanks for dropping by. Star a repo if you vibe with it—it keeps me grinding.* 🌟
 
 ---
-
-Would you like me to also **tighten the intro a little** (less “throw in random projects,” more “curated growth journey”)—or do you want to keep the casual *“this is my messy lab”* vibe?
