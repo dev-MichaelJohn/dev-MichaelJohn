@@ -1,80 +1,97 @@
-# 🌟Hello!! This is Darkuz69's repo!!
+# 🌟 Hey there! Welcome to Darkuz69's Repo
 
-This is my repository where I upload some of my random projects and passion builds. I started posting code snippets at [pastebin](https://pastebin.com/u/Darkuz_69) back in the day, and now I'm here on GitHub sharing full projects with the world! From simple console apps to full-stack web applications - that's character development! 🚀
-
-* Old Pastebin Account -> [Darkuz_69](https://pastebin.com/u/Darkuz_69)
-
-## ⁉️ Who TF am I??
-
-Hi! My real name is **Michael John Larido**. I'm currently a college student (**3rd Year**), taking the Bachelor of Science in Information Technology. I've started my programming journey back in 2022, and I'm still grinding till this day! 💪
-
-This repo will be my place to share my projects to the world. I hope that whoever finds this repo learns something from my projects, gets inspired, or maybe even contributes to make them better!
-
-## 🚀 What I'm Currently Working On
-
-- **SariStoreMS** - My biggest project yet! A full-stack POS system for Filipino sari-sari stores using the STEP'N stack (yeah, I made that name up 😅)
-- Learning more advanced TypeScript patterns and database optimization
-- Exploring desktop app development with Electron
-- Building solutions that actually help Filipino businesses and communities 🇵🇭
-
-## 💻 Tech Stack I Actually Know
-
-**Languages:** C/C++, JavaScript, TypeScript  
-**Frontend:** Svelte, HTML/CSS (abandoned React for Svelte - best decision ever!)  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database:** PostgreSQL, MySQL, SQLite  
-**Tools:** Git, VS Code, Postman  
-**College Languages:** Python, Java, PHP (learned in class but don't really use them)
-
-*Started with C, fell in love with problem-solving and algorithms, then moved to web dev!*
-
-## 🎯 My Dev Philosophy
-
-- **Build stuff that matters** - Code should solve real problems for real people
-- **Keep learning, keep grinding** - There's always something new to discover
-- **Share knowledge** - Help other devs, especially fellow Filipinos starting their journey
-- **From console to web to mobile** - Always pushing myself to the next level
-
-## 📊 GitHub Stats
-
-![Darkuz69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkuz69&show_icons=true&theme=radical)
-
-## 🔥 Projects I'm Actually Proud Of
-
-- **SariStoreMS** - Full-stack POS system for sari-sari stores (STEP'N stack) - My biggest project yet!
-- **CustomLinkedList** - My take on Linked List implementation using C++ (Part of CustomLibraryProject)
-- **CustomBinaryTree** - Binary Tree implementation in C++ with my own optimizations (Part of CustomLibraryProject)  
-- **PocketPal 💰** - Student Allowance-Expense Tracker built for Web Development course (2024)
-
-*From low-level C algorithms to full-stack web apps - that's the journey!*
-
-## 📨 Let's Connect!
-
-Hit me up if you want to:
-- Collaborate on projects (especially anything that helps Filipino businesses!)
-- Ask about my code or need programming help
-- Just chat about tech, games, or life in general!
-
-**Social Media:**
-* **GitHub** -> [Darkuz69](https://github.com/Darkuz69) (you're here!)
-* **Facebook** -> [Michael John Larido](https://www.facebook.com/iam.larido69/)
-* **Instagram** -> [mikeru_96](https://www.instagram.com/mikeru_96/?hl=en)
-* **TikTok** -> [sinclair_197](https://www.tiktok.com/@sinclair_197)
-* **Google** -> [TheReal-MichaelJohnLarido](mailto:lakatangaming145@gmail.com)
-* **Google** -> [TheFake-MichaelJohnLarido](mailto:laridomichaeljohn69@gmail.com) (don't ask lol)
-* **MLBB** -> Mikeru (ID: 539101712) - tara laro! 🎮
-
-## 💡 Fun Facts
-
-- **First language was C** - taught me to think about memory and pointers from day one
-- Love solving algorithmic challenges with C++ (data structures, DP, recursion)
-- **Abandoned React for Svelte** - never looked back! 
-- I name my tech stacks (STEP'N is my proudest creation 😂)
-- Building from console algorithms to full-stack web apps
-- Goal: Build software that makes a difference in the Philippines
+This is where I throw in my random projects, experiments, and passion builds. I used to drop raw snippets on [Pastebin](https://pastebin.com/u/Darkuz_69), but now I’m pushing full projects here on GitHub. From console apps to full-stack systems—call it growth, call it character development. 🚀
 
 ---
 
-**"From pastebin snippets to GitHub repositories - one commit at a time!"** ✨
+## ⁉️ Who the hell am I?
 
-*Thanks for checking out my profile! Don't forget to star my repos if you find them useful! 🌟*
+I’m **Michael John Larido**, a 3rd-year IT student still grinding my way through code every damn day. I kicked off my programming journey in 2022, starting with C (yes, pointers from day one—what a ride), and since then I’ve been diving into web dev, data structures, and building systems that actually solve problems.
+
+This repo is my space to share that journey—maybe you’ll learn something, maybe you’ll get inspired, or maybe you’ll just laugh at my code. Either way, welcome.
+
+---
+
+## 🚀 What I’m Working On
+
+* **SariStoreMS** – My biggest project yet: a full-stack POS system for Filipino sari-sari stores (built with what I call the *STEP’N stack*—don’t ask 😂).
+* Leveling up my TypeScript game and learning database optimization
+* Experimenting with Electron for desktop apps
+* Building real-world solutions for Filipino communities 🇵🇭
+
+---
+
+## 💻 Technologies I Actually Know
+
+**Languages:** C/C++, JavaScript, TypeScript
+**Frontend:** Svelte, HTML/CSS (ditched React for Svelte—no regrets)
+**Backend:** Node.js, Express.js, REST APIs
+**Database:** PostgreSQL, MySQL, SQLite
+**Tools:** Git, VS Code, Postman
+**College Grind:** Python, Java, PHP (know them, don’t love them)
+
+*Started with C → fell in love with problem-solving → ended up chasing web dev.*
+
+---
+
+## 🎯 My Dev Philosophy
+
+* **Build shit that matters** – Code should solve *real* problems for *real* people
+* **Keep grinding** – There’s always a new tool, language, or idea to master
+* **Share the knowledge** – Especially with other devs starting out
+* **Keep moving forward** – From console → web → mobile → whatever’s next
+
+---
+
+## 📊 GitHub Stats
+
+![Darkuz69's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darkuz69\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 Projects I’m Proud Of
+
+* **CustomLinkedList** – C++ implementation of Linked List (part of my CustomLibraryProject)
+* **CustomBinaryTree** – Optimized Binary Tree in C++ (also CustomLibraryProject)
+* **PocketPal 💰** – Student Allowance/Expense Tracker for one of my web dev courses
+
+*From raw C algorithms to full-stack systems—that’s the damn journey.*
+
+---
+
+## 📨 Let’s Connect
+
+Hit me up if you:
+
+* Want to collaborate (bonus points if it helps Filipino businesses)
+* Need help with code (or just wanna rant about debugging)
+* Want to talk tech, games, or life in general
+
+**Socials:**
+
+* **GitHub** → [Darkuz69](https://github.com/Darkuz69)
+* **Facebook** → [Michael John Larido](https://www.facebook.com/iam.larido69/)
+* **Instagram** → [mikeru\_96](https://www.instagram.com/mikeru_96/?hl=en)
+* **TikTok** → [sinclair\_197](https://www.tiktok.com/@sinclair_197)
+* **Email** → [TheReal-MichaelJohnLarido](mailto:lakatangaming145@gmail.com) | [TheFake-MichaelJohnLarido](mailto:laridomichaeljohn69@gmail.com) (weird naming, but yeah...)
+* **MLBB** → Mikeru (ID: 539101712) – tara laro 🎮
+
+---
+
+## 💡 Fun Facts
+
+* My first language was **C** – pointers and memory management humbled me early
+* I still enjoy tackling algorithms in **C++** (data structures, recursion, DP—good brain workouts)
+* I moved on from **React to Svelte**—simpler, cleaner, and honestly just feels right
+* I like naming my own tech stacks (STEP’N might sound silly, but it sticks)
+* My long-term goal: build software that creates real value in our society
+
+---
+
+**"From pastebin snippets to full GitHub projects—one commit at a time."** ✨
+
+*Thanks for dropping by. Star a repo if you vibe with it—it keeps me grinding.* 🌟
+
+---
+
+Would you like me to also **tighten the intro a little** (less “throw in random projects,” more “curated growth journey”)—or do you want to keep the casual *“this is my messy lab”* vibe?
