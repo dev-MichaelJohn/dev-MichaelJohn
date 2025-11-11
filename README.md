@@ -3,7 +3,7 @@
 I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer, a student, an altar server, a choir member, and a member of the society😅. I do random projects on my free time, switching from console programs and web development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,c,cpp,java,py,html,css,tailwind,svelte,express,neovim,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,c,cpp,java,py,html,css,tailwind,svelte,express,neovim,ubuntu" />
   </a>
 </p>
 <p align="center">
