@@ -13,7 +13,7 @@ I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/currently-undergraduate-red?logo=googlescholar" />
-    <img src="https://img.shields.io/badge/playing-MLBB,_Umamusume-blue?logo=android" />
+    <img src="https://img.shields.io/badge/playing-MLBB,_Umamusume,_NBA_2K20-blue?logo=android" />
     <img src="https://img.shields.io/badge/coding_on-neovim-green?logo=neovim" />
 </p>
 
