@@ -46,7 +46,7 @@ I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer
 
 # 📊 GitHub History
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev_MichaelJohn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-MichaelJohn)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
