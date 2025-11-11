@@ -8,7 +8,7 @@ I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,tailwind,svelte,express" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,php,js,ts,tailwind,svelte,express" />
   </a>
 </p>
 <p align="center">
