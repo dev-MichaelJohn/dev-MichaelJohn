@@ -47,9 +47,7 @@ I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer
 # 📊 GitHub History
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-MichaelJohn&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-MichaelJohn&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-MichaelJohn&layout=compact" alt="Top Languages" />
+
 </p>
 
 ---
