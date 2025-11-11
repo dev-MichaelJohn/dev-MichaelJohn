@@ -6,7 +6,11 @@ I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer
     <img src="https://skillicons.dev/icons?i=windows,vscode,neovim,ubuntu" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,tailwind,svelte,express" />
+  </a>
+</p>
 <p align="center">
     <img src="https://img.shields.io/badge/currently-undergraduate-red?logo=googlescholar" />
     <img src="https://img.shields.io/badge/playing-MLBB,_Umamusume-blue?logo=android" />
