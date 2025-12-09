@@ -50,7 +50,7 @@ I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer
 ---
 
 # 📊 GitHub History
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dev-MichaelJohn&show_icons=true&theme=shadow_red" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-MichaelJohn&date_format=M%20j%5B%2C%20Y%5D&theme=shadow_red" alt="GitHub Streak" />
