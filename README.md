@@ -54,7 +54,7 @@ I'm **Michael John**, a 3rd-year IT Student. I'm an aspiring fullstack developer
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-MichaelJohn&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-MichaelJohn&date_format=M%20j%5B%2C%20Y%5D&theme=shadow_red" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-MichaelJohn&layout=compact&theme=shadow_red" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-MichaelJohn&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
